@@ -1,0 +1,8 @@
+\select@language {spanish}
+\beamer@sectionintoc {1}{Estudio de la producci\IeC {\'o}n de un s\IeC {\'o}lo top (single-top) en el canal t}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Estudio a nivel de generador}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Estudio de reconstrucci\IeC {\'o}n de la masa}{5}{0}{1}
+\beamer@subsectionintoc {1}{3}{Estudio de selecci\IeC {\'o}n de se\IeC {\~n}al single-top canal t y rechazo de fondos.}{7}{0}{1}
+\beamer@sectionintoc {2}{Estudio de la producci\IeC {\'o}n de un par top-antitop ($t\mathaccentV {bar}016{t}$)}{12}{0}{2}
+\beamer@subsectionintoc {2}{1}{Estudio de reconstrucci\IeC {\'o}n de la masa y selecci\IeC {\'o}n de se\IeC {\~n}al}{12}{0}{2}
+\beamer@sectionintoc {3}{Conclusiones}{14}{0}{3}
