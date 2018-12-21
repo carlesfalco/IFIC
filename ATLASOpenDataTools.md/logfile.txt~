@@ -1,0 +1,775 @@
+Drawing plot: lep_charge
+
+ Background Process is : ZDiboson
+
+ Event Yield =4
+
+ Background Process is : stopWtschan
+
+ Event Yield =13
+
+ Background Process is : W
+
+ Event Yield =80
+
+ Background Process is : ttbar
+
+ Event Yield =64
+
+ Signal Process is : stoptchan
+
+ Event Yield =153
+ ===================================================================== 
+ S/B= 2.414
+ SigStat= 10.416
+ ===================================================================== 
+Drawing plot: pvxp_n
+
+ Background Process is : ZDiboson
+
+ Event Yield =4
+
+ Background Process is : stopWtschan
+
+ Event Yield =13
+
+ Background Process is : W
+
+ Event Yield =80
+
+ Background Process is : ttbar
+
+ Event Yield =64
+
+ Signal Process is : stoptchan
+
+ Event Yield =153
+ ===================================================================== 
+ S/B= 2.410
+ SigStat= 10.404
+ ===================================================================== 
+Drawing plot: vxp_z
+
+ Background Process is : ZDiboson
+
+ Event Yield =4
+
+ Background Process is : stopWtschan
+
+ Event Yield =13
+
+ Background Process is : W
+
+ Event Yield =80
+
+ Background Process is : ttbar
+
+ Event Yield =64
+
+ Signal Process is : stoptchan
+
+ Event Yield =153
+ ===================================================================== 
+ S/B= 2.414
+ SigStat= 10.416
+ ===================================================================== 
+Drawing plot: jet_pt
+
+ Background Process is : ZDiboson
+
+ Event Yield =7
+
+ Background Process is : stopWtschan
+
+ Event Yield =26
+
+ Background Process is : W
+
+ Event Yield =160
+
+ Background Process is : ttbar
+
+ Event Yield =127
+
+ Signal Process is : stoptchan
+
+ Event Yield =299
+ ===================================================================== 
+ S/B= 2.364
+ SigStat= 14.496
+ ===================================================================== 
+Drawing plot: jet_letabefore
+
+ Background Process is : ZDiboson
+
+ Event Yield =478
+
+ Background Process is : stopWtschan
+
+ Event Yield =394
+
+ Background Process is : W
+
+ Event Yield =5034
+
+ Background Process is : ttbar
+
+ Event Yield =1853
+
+ Signal Process is : stoptchan
+
+ Event Yield =1147
+ ===================================================================== 
+ S/B= 0.619
+ SigStat= 20.944
+ ===================================================================== 
+Drawing plot: lep_n
+
+ Background Process is : ZDiboson
+
+ Event Yield =4
+
+ Background Process is : stopWtschan
+
+ Event Yield =13
+
+ Background Process is : W
+
+ Event Yield =80
+
+ Background Process is : ttbar
+
+ Event Yield =64
+
+ Signal Process is : stoptchan
+
+ Event Yield =153
+ ===================================================================== 
+ S/B= 2.414
+ SigStat= 10.416
+ ===================================================================== 
+Drawing plot: jet_MV2c10
+
+ Background Process is : ZDiboson
+
+ Event Yield =4
+
+ Background Process is : stopWtschan
+
+ Event Yield =15
+
+ Background Process is : W
+
+ Event Yield =89
+
+ Background Process is : ttbar
+
+ Event Yield =75
+
+ Signal Process is : stoptchan
+
+ Event Yield =168
+ ===================================================================== 
+ S/B= 2.233
+ SigStat= 10.779
+ ===================================================================== 
+Drawing plot: delta_eta
+
+ Background Process is : ZDiboson
+
+ Event Yield =8
+
+ Background Process is : stopWtschan
+
+ Event Yield =15
+
+ Background Process is : W
+
+ Event Yield =242
+
+ Background Process is : ttbar
+
+ Event Yield =71
+
+ Signal Process is : stoptchan
+
+ Event Yield =144
+ ===================================================================== 
+ S/B= 2.039
+ SigStat= 9.821
+ ===================================================================== 
+Drawing plot: SingleTopMassbefore
+
+ Background Process is : ZDiboson
+
+ Event Yield =452
+
+ Background Process is : stopWtschan
+
+ Event Yield =377
+
+ Background Process is : W
+
+ Event Yield =4911
+
+ Background Process is : ttbar
+
+ Event Yield =1776
+
+ Signal Process is : stoptchan
+
+ Event Yield =1121
+ ===================================================================== 
+ S/B= 0.631
+ SigStat= 20.824
+ ===================================================================== 
+Drawing plot: htbefore
+
+ Background Process is : ZDiboson
+
+ Event Yield =464
+
+ Background Process is : stopWtschan
+
+ Event Yield =380
+
+ Background Process is : W
+
+ Event Yield =5000
+
+ Background Process is : ttbar
+
+ Event Yield =1810
+
+ Signal Process is : stoptchan
+
+ Event Yield =1112
+ ===================================================================== 
+ S/B= 0.614
+ SigStat= 20.569
+ ===================================================================== 
+Drawing plot: delta_etabefore
+
+ Background Process is : ZDiboson
+
+ Event Yield =437
+
+ Background Process is : stopWtschan
+
+ Event Yield =384
+
+ Background Process is : W
+
+ Event Yield =4552
+
+ Background Process is : ttbar
+
+ Event Yield =1797
+
+ Signal Process is : stoptchan
+
+ Event Yield =1013
+ ===================================================================== 
+ S/B= 0.564
+ SigStat= 19.109
+ ===================================================================== 
+Drawing plot: lep_d0
+
+ Background Process is : ZDiboson
+
+ Event Yield =4
+
+ Background Process is : stopWtschan
+
+ Event Yield =13
+
+ Background Process is : W
+
+ Event Yield =80
+
+ Background Process is : ttbar
+
+ Event Yield =64
+
+ Signal Process is : stoptchan
+
+ Event Yield =153
+ ===================================================================== 
+ S/B= 2.414
+ SigStat= 10.416
+ ===================================================================== 
+Drawing plot: lep_eta
+
+ Background Process is : ZDiboson
+
+ Event Yield =4
+
+ Background Process is : stopWtschan
+
+ Event Yield =13
+
+ Background Process is : W
+
+ Event Yield =80
+
+ Background Process is : ttbar
+
+ Event Yield =64
+
+ Signal Process is : stoptchan
+
+ Event Yield =153
+ ===================================================================== 
+ S/B= 2.414
+ SigStat= 10.416
+ ===================================================================== 
+Drawing plot: jet_m
+
+ Background Process is : ZDiboson
+
+ Event Yield =7
+
+ Background Process is : stopWtschan
+
+ Event Yield =26
+
+ Background Process is : W
+
+ Event Yield =160
+
+ Background Process is : ttbar
+
+ Event Yield =125
+
+ Signal Process is : stoptchan
+
+ Event Yield =299
+ ===================================================================== 
+ S/B= 2.400
+ SigStat= 14.528
+ ===================================================================== 
+Drawing plot: lep_pt
+
+ Background Process is : ZDiboson
+
+ Event Yield =4
+
+ Background Process is : stopWtschan
+
+ Event Yield =13
+
+ Background Process is : W
+
+ Event Yield =80
+
+ Background Process is : ttbar
+
+ Event Yield =64
+
+ Signal Process is : stoptchan
+
+ Event Yield =153
+ ===================================================================== 
+ S/B= 2.412
+ SigStat= 10.411
+ ===================================================================== 
+Drawing plot: SingleTopMass
+
+ Background Process is : ZDiboson
+
+ Event Yield =196
+
+ Background Process is : stopWtschan
+
+ Event Yield =154
+
+ Background Process is : W
+
+ Event Yield =2118
+
+ Background Process is : ttbar
+
+ Event Yield =643
+
+ Signal Process is : stoptchan
+
+ Event Yield =613
+ ===================================================================== 
+ S/B= 0.953
+ SigStat= 17.294
+ ===================================================================== 
+Drawing plot: lep_type
+
+ Background Process is : ZDiboson
+
+ Event Yield =4
+
+ Background Process is : stopWtschan
+
+ Event Yield =13
+
+ Background Process is : W
+
+ Event Yield =80
+
+ Background Process is : ttbar
+
+ Event Yield =64
+
+ Signal Process is : stoptchan
+
+ Event Yield =153
+ ===================================================================== 
+ S/B= 2.414
+ SigStat= 10.416
+ ===================================================================== 
+Drawing plot: jet_phi
+
+ Background Process is : ZDiboson
+
+ Event Yield =7
+
+ Background Process is : stopWtschan
+
+ Event Yield =26
+
+ Background Process is : W
+
+ Event Yield =160
+
+ Background Process is : ttbar
+
+ Event Yield =127
+
+ Signal Process is : stoptchan
+
+ Event Yield =307
+ ===================================================================== 
+ S/B= 2.414
+ SigStat= 14.730
+ ===================================================================== 
+Drawing plot: ht
+
+ Background Process is : ZDiboson
+
+ Event Yield =4
+
+ Background Process is : stopWtschan
+
+ Event Yield =13
+
+ Background Process is : W
+
+ Event Yield =80
+
+ Background Process is : ttbar
+
+ Event Yield =63
+
+ Signal Process is : stoptchan
+
+ Event Yield =148
+ ===================================================================== 
+ S/B= 2.351
+ SigStat= 10.190
+ ===================================================================== 
+Drawing plot: lep_ptconerel30
+
+ Background Process is : ZDiboson
+
+ Event Yield =4
+
+ Background Process is : stopWtschan
+
+ Event Yield =13
+
+ Background Process is : W
+
+ Event Yield =80
+
+ Background Process is : ttbar
+
+ Event Yield =64
+
+ Signal Process is : stoptchan
+
+ Event Yield =153
+ ===================================================================== 
+ S/B= 2.414
+ SigStat= 10.416
+ ===================================================================== 
+Drawing plot: lep_etconerel20
+
+ Background Process is : ZDiboson
+
+ Event Yield =4
+
+ Background Process is : stopWtschan
+
+ Event Yield =13
+
+ Background Process is : W
+
+ Event Yield =80
+
+ Background Process is : ttbar
+
+ Event Yield =64
+
+ Signal Process is : stoptchan
+
+ Event Yield =153
+ ===================================================================== 
+ S/B= 2.411
+ SigStat= 10.408
+ ===================================================================== 
+Drawing plot: n_jets
+
+ Background Process is : ZDiboson
+
+ Event Yield =4
+
+ Background Process is : stopWtschan
+
+ Event Yield =13
+
+ Background Process is : W
+
+ Event Yield =80
+
+ Background Process is : ttbar
+
+ Event Yield =64
+
+ Signal Process is : stoptchan
+
+ Event Yield =153
+ ===================================================================== 
+ S/B= 2.414
+ SigStat= 10.416
+ ===================================================================== 
+Drawing plot: lep_phi
+
+ Background Process is : ZDiboson
+
+ Event Yield =4
+
+ Background Process is : stopWtschan
+
+ Event Yield =13
+
+ Background Process is : W
+
+ Event Yield =80
+
+ Background Process is : ttbar
+
+ Event Yield =64
+
+ Signal Process is : stoptchan
+
+ Event Yield =153
+ ===================================================================== 
+ S/B= 2.414
+ SigStat= 10.416
+ ===================================================================== 
+Drawing plot: jet_eta
+
+ Background Process is : ZDiboson
+
+ Event Yield =7
+
+ Background Process is : stopWtschan
+
+ Event Yield =26
+
+ Background Process is : W
+
+ Event Yield =160
+
+ Background Process is : ttbar
+
+ Event Yield =127
+
+ Signal Process is : stoptchan
+
+ Event Yield =307
+ ===================================================================== 
+ S/B= 2.414
+ SigStat= 14.730
+ ===================================================================== 
+Drawing plot: n_jetsbefore
+
+ Background Process is : ZDiboson
+
+ Event Yield =478
+
+ Background Process is : stopWtschan
+
+ Event Yield =394
+
+ Background Process is : W
+
+ Event Yield =5034
+
+ Background Process is : ttbar
+
+ Event Yield =1853
+
+ Signal Process is : stoptchan
+
+ Event Yield =1147
+ ===================================================================== 
+ S/B= 0.619
+ SigStat= 20.944
+ ===================================================================== 
+Drawing plot: lep_z0
+
+ Background Process is : ZDiboson
+
+ Event Yield =4
+
+ Background Process is : stopWtschan
+
+ Event Yield =13
+
+ Background Process is : W
+
+ Event Yield =80
+
+ Background Process is : ttbar
+
+ Event Yield =64
+
+ Signal Process is : stoptchan
+
+ Event Yield =153
+ ===================================================================== 
+ S/B= 2.414
+ SigStat= 10.416
+ ===================================================================== 
+Drawing plot: lep_E
+
+ Background Process is : ZDiboson
+
+ Event Yield =4
+
+ Background Process is : stopWtschan
+
+ Event Yield =13
+
+ Background Process is : W
+
+ Event Yield =79
+
+ Background Process is : ttbar
+
+ Event Yield =64
+
+ Signal Process is : stoptchan
+
+ Event Yield =153
+ ===================================================================== 
+ S/B= 2.411
+ SigStat= 10.408
+ ===================================================================== 
+Drawing plot: WtMass
+
+ Background Process is : ZDiboson
+
+ Event Yield =4
+
+ Background Process is : stopWtschan
+
+ Event Yield =13
+
+ Background Process is : W
+
+ Event Yield =80
+
+ Background Process is : ttbar
+
+ Event Yield =64
+
+ Signal Process is : stoptchan
+
+ Event Yield =153
+ ===================================================================== 
+ S/B= 2.414
+ SigStat= 10.416
+ ===================================================================== 
+Drawing plot: etmiss
+
+ Background Process is : ZDiboson
+
+ Event Yield =4
+
+ Background Process is : stopWtschan
+
+ Event Yield =13
+
+ Background Process is : W
+
+ Event Yield =80
+
+ Background Process is : ttbar
+
+ Event Yield =64
+
+ Signal Process is : stoptchan
+
+ Event Yield =153
+ ===================================================================== 
+ S/B= 2.405
+ SigStat= 10.390
+ ===================================================================== 
+Drawing plot: jet_jvt
+
+ Background Process is : ZDiboson
+
+ Event Yield =7
+
+ Background Process is : stopWtschan
+
+ Event Yield =23
+
+ Background Process is : W
+
+ Event Yield =143
+
+ Background Process is : ttbar
+
+ Event Yield =108
+
+ Signal Process is : stoptchan
+
+ Event Yield =263
+ ===================================================================== 
+ S/B= 2.450
+ SigStat= 13.678
+ ===================================================================== 
+Drawing plot: jet_leta
+
+ Background Process is : ZDiboson
+
+ Event Yield =60
+
+ Background Process is : stopWtschan
+
+ Event Yield =38
+
+ Background Process is : W
+
+ Event Yield =625
+
+ Background Process is : ttbar
+
+ Event Yield =193
+
+ Signal Process is : stoptchan
+
+ Event Yield =281
+ ===================================================================== 
+ S/B= 1.459
+ SigStat= 12.911
+ ===================================================================== 
